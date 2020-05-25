@@ -1,0 +1,11 @@
+How to play the Maze
+
+The player is the green square in the top left corner of the maze. Move the player with the top, bottom, left, and right arrow keys. You will not be able to move across walls. The end of the maze is in the red square at bottom right corner of the maze. Once you have reached that point, you have found the path of the maze. It will also display how many steps it took to solve the maze.
+
+To toggle between seeing the path you have taken and not seeing the path, press "t".
+
+To find the shortest path of the maze through breadth-first search, press the "b" key. Light blue squares with first show the points where vertices was searched first and then when it reaches the end point, the shortest path will be shown in blue squares, starting from the end of the maze to the beginning of the maze.
+
+To find the shortest path of the maze through depth-first search, press the "d" key. Light blue squares with first show the points where vertices was searched first and then when it reaches the end point, the shortest path will be shown in blue squares, starting from the end of the maze to the beginning of the maze.
+
+To restart the maze press the "n" key.
